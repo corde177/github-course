@@ -1,1 +1,1 @@
-## Este é um repositório teste para teste.
+## Este é um repositório teste para aprender como o git funciona.
